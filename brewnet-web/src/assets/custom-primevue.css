@@ -1,0 +1,9 @@
+.p-datatable-header-cell {
+    &.p-datatable-column-sorted {
+        color: inherit;
+
+        .p-datatable-sort-icon {
+            color: inherit;
+        }
+    }
+}

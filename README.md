@@ -1,4 +1,4 @@
-# Brew Net: 프랜차이즈 주문 관리 시스템
+# BrewNet: 프랜차이즈 주문 관리 시스템
 (브루넷 이미지)
 (브루넷 한줄 소개 및 주요기능 3~4줄로 설명)
 
@@ -9,11 +9,34 @@
 |:--:|:--:|:--:|:--:|:--:|
 |이미지|이미지|이미지|이미지|이미지|
 |역할|역할|역할|역할|역할|
+|[@rohdamin](https://github.com/rohdamin)|[@yanghyeonjin](https://github.com/yanghyeonjin)|[@Yong-ga-ri](https://github.com/Yong-ga-ri)|[@hoddeok07](https://github.com/hoddeok07)|[@JeongJunSeo99](https://github.com/JeongJunSeo99)|
+
+<br>
+
+## 프로젝트 기획
+### 배경
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%EB%B0%B0%EA%B2%BD)
+
+### 요구사항 정의서
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EC%9D%98%EC%84%9C)
+
+### WBS
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#wbs)
+
+### DDD(Domain Driven Design)
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#ddddomain-driven-design)
+
+### ERD
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#erd)
+
+### 화면설계서
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C)
+
 
 <br>
 
 ## 주요 프로세스
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%EC%A3%BC%EC%9A%94-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/2.-%EC%A3%BC%EC%9A%94-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
 
 ### 발주
 ### 주문
@@ -22,28 +45,9 @@
 
 <br>
 
-## 프로젝트 기획
-### 요구사항 정의서
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EC%9D%98%EC%84%9C)
-
-### WBS
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#wbs)
-
-### DDD(Domain Driven Design)
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#ddddomain-driven-design)
-
-### ERD
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#erd)
-
-### 화면설계서
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C)
-
-
-<br>
-
 
 ## 프로젝트 개발
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/Variety-Crew%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95)
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/3.-Variety-Crew%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95)
 
 #### Front-end
 |Vue.js|Javascript|HTML|CSS|PrimeVue|Pinia|Fetch API|
@@ -93,13 +97,13 @@
 <br>
 
 ## 결과물
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%EA%B2%B0%EA%B3%BC%EB%AC%BC)
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/4.-%EA%B2%B0%EA%B3%BC%EB%AC%BC)
 
 <br>
 
 
 ## 시스템 전체 아키텍처
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-varietycrew-brewnet/wiki/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%84%EC%B2%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/5.-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%84%EC%B2%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
 <br>
 
@@ -107,11 +111,11 @@
 ## 프로젝트 회고
 | 팀원 | COMMENT |
 | :---: | :--- |
-|노다민| (회고 내용) |
-|양현진| (회고 내용) |
-|용길한| (회고 내용) |
-|장호정| (회고 내용) |
-|정준서| (회고 내용) |
+| 노다민 | **# 느낀점**<br>- 요구사항 정의와 프로세스 이해의  중요성을 느꼈다.<br>- 팀원들의 다양한 의견을 하나로 통합하는 과정에서 협업의 중요성을 느꼈다.<br><br>**# 이 프로젝트를 통해 얻은 것**<br>- Mybatis를 이용해 복잡한 쿼리를 작성하는 경험을 할 수 있었다.<br>- AWS를 활용한 배포 과정을 학습할 수 있었다.  |
+| 양현진 | **# 느낀점**<br>많은 기능을 제한된 시간 내에 구현해야 했었는데 기능의 우선순위를 세세하게 나누지 않아 프로젝트 마감이 다가올 때 더 정신없이 개발했었다. 수업 때 배운 MVP(최소기능제품)을 다시 한 번 상기시킬 수 있는 프로젝트였고 작업의 우선순위 선정, 마감기한 지키기의 중요성을 깨달았다.<br><br>**# 이 프로젝트를 통해 얻은 것**<br>채용 시장에서 요구하는 프론트엔드 기술을 습득했다. 그리고 여러 사람과 발 맞추어 나아가는 과정을 배울 수 있었다. |
+| 용길한 | **# 느낀점**<br>- 내용이 방대한 ERP를 개발하며, 기획적 어려움이 많았다.<br>- 의사소통과 협업의 중요성을 피부로 느꼈다.<br><br>**# 이 프로젝트를 통해 얻은 것**<br>- 나만의생각일 수 있지만, 든든한 동료들을 얻었다는 생각이다.<br>- AWS 스펙에 대한 기본기를 많이 배웠다. |
+| 장호정 | **# 느낀점**<br>기획이 정말 중요하면서도 어려운 업무라는 것을 몸소 느꼈으며, 그럼에도 불구하고 팀원들과 의견 차이를 좁혀가면서 기획을 탄탄하게 만들어가는 과정이 재미있었다.<br><br>**# 이 프로젝트를 통해 얻은 것**<br>여러 도메인들이 복잡하게 얽혀 있을 때 협업하여 개발하는 경험을 얻었고, 상태 관리와 재고 관리를 신경 써서 요구사항 정의 및 DB 설계하는 법을 배울 수 있었다. |
+| 정준서 | **# 느낀점**<br>주문관리 시스템에 필요한 요구사항들을 식별하는데 어려움을 느꼈습니다. 하지만 처음 겪어보는 Domain인 만큼 얻어가는 내용들이 많았습니다.<br>특히, 복잡한 프로세스 중 상태나 재고 개수 등의 데이터 정합성을 신경써서 개발하며 많이 배웠던 것 같습니다. |
 
 
 <br>

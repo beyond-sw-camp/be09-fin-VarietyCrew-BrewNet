@@ -1,47 +1,40 @@
 # BrewNet: 프랜차이즈 주문 관리 시스템
-(브루넷 이미지)
-(브루넷 한줄 소개 및 주요기능 3~4줄로 설명)
+<img width="768" alt="스크린샷 2024-12-15 오후 9 36 51" src="https://github.com/user-attachments/assets/3f08cf8e-68a4-49b7-9454-4f8bfa4cd747" />
 
 <br>
 
 ## 팀원
-|노다민(깃헙링크)|양현진(깃헙링크)|용길한(깃헙링크)|장호정(깃헙링크)|정준서(깃헙링크)|
+|노다민|양현진|용길한|장호정|정준서|
 |:--:|:--:|:--:|:--:|:--:|
-|이미지|이미지|이미지|이미지|이미지|
-|역할|역할|역할|역할|역할|
+|<img width="70" alt="스크린샷 2024-12-15 오후 9 32 55" src="https://github.com/user-attachments/assets/53412e41-381c-46ea-a180-89db7058cdd3" />|<img width="70" src="https://github.com/user-attachments/assets/d6aa968e-27a0-4a73-b4cb-00755c6d677d" />|<img width="70" alt="스크린샷 2024-12-15 오후 9 33 02" src="https://github.com/user-attachments/assets/97d0b5cc-e825-46a2-9930-2853a6fe826d" />|<img width="70" alt="스크린샷 2024-12-15 오후 9 33 10" src="https://github.com/user-attachments/assets/68bbd1a4-4447-4ab8-a1e0-6121d6aa556c" />|<img width="70" alt="스크린샷 2024-12-15 오후 9 33 22" src="https://github.com/user-attachments/assets/720a1289-9998-47fd-9ea3-aed9f52f45c1" />|
+|교환 기능 개발<br>반품 기능 개발|프론트엔드 개발|시스템 권한 분리<br>주문 기능 개발<br>프로젝트 배포|발주 기능 개발<br>재고, 거래처 기능 개발|회원, 가맹점 기능 개발<br>통계, 상품, 배송 개발|
 |[@rohdamin](https://github.com/rohdamin)|[@yanghyeonjin](https://github.com/yanghyeonjin)|[@Yong-ga-ri](https://github.com/Yong-ga-ri)|[@hoddeok07](https://github.com/hoddeok07)|[@JeongJunSeo99](https://github.com/JeongJunSeo99)|
 
 <br>
 
-## 프로젝트 기획
-### 배경
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%EB%B0%B0%EA%B2%BD)
+## 프로젝트 배경 및 기획
+[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D)
 
-### 요구사항 정의서
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EC%9D%98%EC%84%9C)
+<img width="768" alt="스크린샷 2024-12-15 오후 9 40 03" src="https://github.com/user-attachments/assets/0bd1d595-c49c-43d9-b20c-3c6696f210ff" />
 
-### WBS
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#wbs)
-
-### DDD(Domain Driven Design)
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#ddddomain-driven-design)
-
-### ERD
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#erd)
-
-### 화면설계서
-[🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D#%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C)
-
+* 2022년 통계청의 프랜차이즈 조사 결과에 따르면, 전년 대시 시장 규모가 증가하는 것을 확인할 수 있습니다.
+* 이러한 프랜차이즈 사업의 증가는 주문관리 시스템 수요에 영향을 미칠 것이라 기대했습니다.
 
 <br>
 
 ## 주요 프로세스
 [🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/2.-%EC%A3%BC%EC%9A%94-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
 
+<img width="768" alt="스크린샷 2024-12-15 오후 9 54 00" src="https://github.com/user-attachments/assets/53bfabfa-b904-4c73-bce5-baa158280bfa" />
+
 ### 발주
+* 본사가 본사창고의 재고를 보충하기 위해 거래처로부터 상품을 구매하는 것
 ### 주문
+* 가맹점이 매장의 재고를 보충하기 위해 본사로부터 상품을 구매하는 것
 ### 교환
+* 가맹점에게 배송완료된 상품이 어떠한 사유로 인해 상품을 재배송하는 것
 ### 반품
+* 가맹점에게 배송완료된 상품이 어떠한 사유로 인해 상품을 본사에게 반납하는 것
 
 <br>
 
@@ -104,6 +97,8 @@
 
 ## 시스템 전체 아키텍처
 [🔗 자세히 보기](https://github.com/beyond-sw-camp/be09-fin-VarietyCrew-BrewNet/wiki/5.-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%84%EC%B2%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+
+<img width="768" alt="스크린샷 2024-12-15 오후 9 51 47" src="https://github.com/user-attachments/assets/79edd1bc-6c96-4be1-980c-a5d848e328d2" />
 
 <br>
 
